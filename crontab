@@ -1,0 +1,5 @@
+* * * * * /root/MainProgram
+*/5 * * * * /usr/bin/python /root/test.py
+* */3 * * * /root/sendMail
+*/5 * * * * /root/readEncrypted
+
